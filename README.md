@@ -81,11 +81,11 @@ Build a fully operational forensic lab that enables:
 ---
 
 ## 🧩 Tools Summary
-**FTK Imager** → Memory Capture
-**Volatility 3** → Memory & Process Analysis
-**Cyber Triage** → Automated Incident Triage
-**Redline** → IOC and Threat Scanning
-**VMware & WSL** → Virtualized Testing Environment
+**FTK Imager** → Memory Capture.
+**Volatility 3** → Memory & Process Analysis.
+**Cyber Triage** → Automated Incident Triage.
+**Redline** → IOC and Threat Scanning.
+**VMware & WSL** → Virtualized Testing Environment.
 
 ## 🚀 Future Improvements
 - Integrate **Rekall** for extended volatility comparison.  
